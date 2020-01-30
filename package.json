@@ -1,9 +1,9 @@
 {
+  "author": "Gudmundur",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
   },
-  "author": "Gudmundur",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
